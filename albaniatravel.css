@@ -1,0 +1,28 @@
+.tab button {
+  display: block;
+  background-color: inherit;
+  color: black;
+  padding: 10px 6px;
+  width: 10%;
+  border-color: black;
+  outline: none;
+  text-align: left;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.tab button:hover {
+  background-color: white;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  float: right;
+  position: relative;
+  right: 478px;
+}
